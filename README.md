@@ -12,10 +12,6 @@ Jaapalanté est une application mobile qui met en relation des utilisateurs avec
 - **Flutter** : Développement de l’application mobile
 - **Firebase** : Authentification et gestion de base de données
 
-## Auteurs
-- Ali Mar Ngom
-- Papa Abdoulaye Ndiaye
-
 ## Captures d’écran
 
 ## Licence
