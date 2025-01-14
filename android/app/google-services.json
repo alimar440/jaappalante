@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "798924436033",
+    "project_id": "jappalante-685ee",
+    "storage_bucket": "jappalante-685ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798924436033:android:22ff3542cb81ee4e6cccc0",
+        "android_client_info": {
+          "package_name": "com.example.jaappal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQvIJxHmf8Xicx-lkc8fX0acxhyIkEs34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798924436033:android:0c8dc35e13d321c36cccc0",
+        "android_client_info": {
+          "package_name": "com.example.jaappalante"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQvIJxHmf8Xicx-lkc8fX0acxhyIkEs34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798924436033:android:2b1cbc3b3a5a75056cccc0",
+        "android_client_info": {
+          "package_name": "com.example.myloginpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQvIJxHmf8Xicx-lkc8fX0acxhyIkEs34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
