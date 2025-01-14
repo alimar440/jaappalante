@@ -20,7 +20,7 @@ Jaapalanté est une application mobile qui met en relation des utilisateurs avec
 ![Accueil](JaapalanteImage/home3.png)
 
 ### Notifications  
-![Notifications](JaapalanteImage/notif&.png)
+![Notifications](JaapalanteImage/notif1.png)
 
 ### Profil  
 ![Profil](JappalanteImage/profil.png)
