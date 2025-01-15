@@ -15,20 +15,19 @@ Jaapalanté est une application mobile qui met en relation des utilisateurs avec
 ## Captures d’écran
 
 ### Page d’accueil  
-![Accueil](JaapalanteImage/home1.png)
-![Accueil](JaapalanteImage/home2.png)
-![Accueil](JaapalanteImage/home3.png)
+![Accueil](jaapalanteImage/home1.png)
+![Accueil](jaapalanteImage/home2.png)
+![Accueil](jaapalanteImage/home3.png)
 
 ### Notifications  
-![Notifications](JaapalanteImage/notif1.png)
+![Notifications](jaapalanteImage/notif1.png)
 
 ### Profil  
-![Profil](JappalanteImage/profil.png)
-![Profil](JappalanteImage/profil2.png)
+![Profil](jaapalanteImage/profil.png)
+![Profil](jaapalanteImage/profil2.png)
 
 ### login et register
-![login](JappalanteImage/register1.png)
-![login](JappalanteImage/register2.png)
-## Licence
-Ce projet est sous licence MIT.
+![login](jaapalanteImage/register1.png)
+![login](jaapalanteImage/register2.png)
+
 
